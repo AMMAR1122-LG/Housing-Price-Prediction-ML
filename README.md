@@ -14,7 +14,7 @@ This project uses machine learning techniques to predict housing prices based on
 - [Results](#results)
 - [Visuals](#visuals)
 - [How to Use](#how-to-use)
-- [About Me](#about-me)
+
 
 
 ---
@@ -89,6 +89,11 @@ The goal of this project is to build and evaluate regression models that can acc
    - RMSE (Root Mean Squared Error)
    - R² Score
    - Visual analysis of actual vs predicted prices
+  
+
+### 🔷 Model Comparison
+![Model Comparison](https://github.com/AMMAR1122-LG/Housing-Price-Prediction-ML/blob/main/Images/Feature_Importance.png)
+
 
 ---
 
@@ -113,16 +118,13 @@ The goal of this project is to build and evaluate regression models that can acc
 
 
 ### 🔷 Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](
+https://github.com/AMMAR1122-LG/Housing-Price-Prediction-ML/blob/main/Images/Correlation.png)
 
 ### 🔷 Price Distribution
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](https://github.com/AMMAR1122-LG/Housing-Price-Prediction-ML/blob/main/Images/Price_Distribution.png)
 
-### 🔷 Predicted vs Actual Prices
-![Predicted vs Actual](images/predicted_vs_actual.png)
 
-### 🔷 Model Comparison
-![Model Comparison](images/model_comparison.png)
 
 ---
 
